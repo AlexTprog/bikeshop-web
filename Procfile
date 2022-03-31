@@ -1,1 +1,1 @@
-web: gunicorn bikeshop
+web: gunicorn bikeshop:create_app
