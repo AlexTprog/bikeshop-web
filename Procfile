@@ -1,1 +1,1 @@
-web: gunicorn bikeshop.__init__
+web: gunicorn bikeshop.app
